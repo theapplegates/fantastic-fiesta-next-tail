@@ -29,8 +29,7 @@ export function Search() {
   if (!WJB3BB1LBY || !d500dad17ba74bb3877dbcb619af617e) {
     return null
   }
-
-  return (
+return (
     <>
       <Head>
         <link
